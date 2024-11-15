@@ -165,7 +165,6 @@
 <body>
     <nav>
         <ul>
-            <li><a href="inicio.php">Inicio</a></li>
             <li><a href="nosotros.php">Nosotros</a></li>
             <li>
 
